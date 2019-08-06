@@ -1,0 +1,6 @@
+/home/daniel/Projects/Coin-Change/Coin-Change/bin/Debug/Coin-Change.exe
+/home/daniel/Projects/Coin-Change/Coin-Change/bin/Debug/Coin-Change.pdb
+/home/daniel/Projects/Coin-Change/Coin-Change/obj/x86/Debug/Coin-Change.csprojAssemblyReference.cache
+/home/daniel/Projects/Coin-Change/Coin-Change/obj/x86/Debug/Coin-Change.csproj.CoreCompileInputs.cache
+/home/daniel/Projects/Coin-Change/Coin-Change/obj/x86/Debug/Coin-Change.exe
+/home/daniel/Projects/Coin-Change/Coin-Change/obj/x86/Debug/Coin-Change.pdb
